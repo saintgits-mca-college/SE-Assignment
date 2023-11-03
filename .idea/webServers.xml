@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0bc0779-371c-4bbd-bde4-7ae83252f929" name="XAMPP SERVER" url="http://localhost/S5 Sem End Project">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\S5 Sem End Project" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
